@@ -1,0 +1,10 @@
+streamlit
+pillow
+numpy
+pandas
+python-dotenv
+requests
+opencv-python
+scikit-image
+playwright
+pyyaml
